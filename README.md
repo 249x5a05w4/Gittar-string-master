@@ -1,2 +1,2 @@
 # Gittar-string-master
-Learning guittar
+Learning guittar on online platform
